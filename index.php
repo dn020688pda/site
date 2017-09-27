@@ -31,7 +31,7 @@ else $bt="-- выберите бранч --";
 
 <head>
 
-<title>Статистика склада РП</title>
+<title>Статистика склада ИТ РП</title>
 
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
 <meta name="keywords" content="">
