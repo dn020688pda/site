@@ -3,6 +3,8 @@
 
 $f=mssql_connect  ('POS-LIMEWAX','lime','123456789lkjhgfdsa');
 
+test();
+
 mssql_select_db ("PosTerminal");
 
 $sql1="select id, ldap, fio from LogisTeam";
