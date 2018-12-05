@@ -3,7 +3,7 @@
 
 $f=mssql_connect  ('POS-LIMEWAX','lime','123456789lkjhgfdsa');
 
-test();
+test();Изменить;
 
 mssql_select_db ("PosTerminal");
 
